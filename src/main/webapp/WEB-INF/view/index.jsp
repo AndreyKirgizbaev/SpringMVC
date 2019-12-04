@@ -52,40 +52,6 @@
     <!-- Page Content -->
     <div class="container">
 
-      <!-- Marketing Icons Section -->
-      <div class="row">
-        <div class="col-lg-12">
-          <h1 class="page-header">
-            <spring:message code="content.introMsg"/>
-          </h1>
-        </div>
-        <div class="col-md-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4><i class="fa fa-fw fa-check"></i> Bootstrap v3.2.0</h4>
-            </div>
-            <div class="panel-body">
-              <p>Предназначен для всех, во всем мире.
-                Bootstrap - интуитивно простой и в тоже время мощный интерфейсный фрейморк, повышающий скорость и облегчающий разработку web-приложений.
-              </p>
-              <a href="#" class="btn btn-default">Подробнее</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h4><i class="fa fa-fw fa-compass"></i>HTML5</h4>
-            </div>
-            <div class="panel-body">
-              <p>В HTML5 реализовано множество новых синтаксических особенностей. Например, элементы video, audio и canvas, а также возможность использования SVG и математических формул.</p>
-              <a href="#" class="btn btn-default">Подробнее</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- /.row -->
-
       <c:url value="/file.html" var="file"/>
       <c:url value="/email.html" var="email"/>
       <c:url value="/orm.html" var="orm" />

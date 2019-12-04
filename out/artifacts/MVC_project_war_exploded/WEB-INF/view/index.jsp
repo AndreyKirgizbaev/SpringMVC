@@ -140,7 +140,7 @@
           </ul>
         </div>
         <div class="col-md-6">
-          <img class="img-responsive" src="${pageContext.request.contextPath}/resources/images/springmvc angular.jpg" alt="">
+          <img class="img-responsive" src="${pageContext.request.contextPath}/resources/images/springmvc.jpg" alt="">
         </div>
       </div>
       <!-- /.row -->
